@@ -1,0 +1,9 @@
+name = "FinDB"
+uuid = "ad39a86d-bc0b-496d-b7c5-6bc255f97dda"
+authors = ["Philippe Lacroix-Ouellette <philippe.lacroix-ouellette@hec.ca>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
+YFinance = "e4b3b0a2-f9a3-42f3-aabb-32142cceaf77"
